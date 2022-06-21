@@ -1,0 +1,7 @@
+.names li {
+  background-color: #cecece;
+}
+
+.names li:nth-child(even) {
+    background-color: #efe3e3;
+}
